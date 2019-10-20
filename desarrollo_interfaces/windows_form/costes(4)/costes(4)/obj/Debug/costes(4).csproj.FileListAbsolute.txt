@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\bin\Debug\costes(4).exe.config
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\bin\Debug\costes(4).exe
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\bin\Debug\costes(4).pdb
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\obj\Debug\costes(4).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\obj\Debug\costes_4_.Form1.resources
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\obj\Debug\costes_4_.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\obj\Debug\costes(4).csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\obj\Debug\costes(4).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\obj\Debug\costes(4).exe
+C:\Users\Lenovo\source\repos\costes(4)\costes(4)\obj\Debug\costes(4).pdb

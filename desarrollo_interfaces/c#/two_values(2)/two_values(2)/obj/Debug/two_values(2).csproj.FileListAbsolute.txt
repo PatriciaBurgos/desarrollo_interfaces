@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\two_values(2)\two_values(2)\bin\Debug\two_values(2).exe.config
+C:\Users\Lenovo\source\repos\two_values(2)\two_values(2)\bin\Debug\two_values(2).exe
+C:\Users\Lenovo\source\repos\two_values(2)\two_values(2)\bin\Debug\two_values(2).pdb
+C:\Users\Lenovo\source\repos\two_values(2)\two_values(2)\obj\Debug\two_values(2).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\two_values(2)\two_values(2)\obj\Debug\two_values(2).exe
+C:\Users\Lenovo\source\repos\two_values(2)\two_values(2)\obj\Debug\two_values(2).pdb

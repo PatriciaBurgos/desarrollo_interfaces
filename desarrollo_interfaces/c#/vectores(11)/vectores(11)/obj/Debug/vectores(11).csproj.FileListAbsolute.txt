@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\vectores(11)\vectores(11)\bin\Debug\vectores(11).exe.config
+C:\Users\Lenovo\source\repos\vectores(11)\vectores(11)\bin\Debug\vectores(11).exe
+C:\Users\Lenovo\source\repos\vectores(11)\vectores(11)\bin\Debug\vectores(11).pdb
+C:\Users\Lenovo\source\repos\vectores(11)\vectores(11)\obj\Debug\vectores(11).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\vectores(11)\vectores(11)\obj\Debug\vectores(11).exe
+C:\Users\Lenovo\source\repos\vectores(11)\vectores(11)\obj\Debug\vectores(11).pdb

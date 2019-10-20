@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\par(4)\par(4)\bin\Debug\par(4).exe.config
+C:\Users\Lenovo\source\repos\par(4)\par(4)\bin\Debug\par(4).exe
+C:\Users\Lenovo\source\repos\par(4)\par(4)\bin\Debug\par(4).pdb
+C:\Users\Lenovo\source\repos\par(4)\par(4)\obj\Debug\par(4).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\par(4)\par(4)\obj\Debug\par(4).exe
+C:\Users\Lenovo\source\repos\par(4)\par(4)\obj\Debug\par(4).pdb

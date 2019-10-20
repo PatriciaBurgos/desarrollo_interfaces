@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\bin\Debug\numeros_form(2).exe.config
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\bin\Debug\numeros_form(2).exe
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\bin\Debug\numeros_form(2).pdb
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\obj\Debug\numeros_form(2).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\obj\Debug\numeros_form_2_.Form1.resources
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\obj\Debug\numeros_form_2_.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\obj\Debug\numeros_form(2).csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\obj\Debug\numeros_form(2).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\obj\Debug\numeros_form(2).exe
+C:\Users\Lenovo\source\repos\numeros_form(2)\numeros_form(2)\obj\Debug\numeros_form(2).pdb

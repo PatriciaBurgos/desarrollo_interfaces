@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\excepciones(9)\excepciones(9)\bin\Debug\excepciones(9).exe.config
+C:\Users\Lenovo\source\repos\excepciones(9)\excepciones(9)\bin\Debug\excepciones(9).exe
+C:\Users\Lenovo\source\repos\excepciones(9)\excepciones(9)\bin\Debug\excepciones(9).pdb
+C:\Users\Lenovo\source\repos\excepciones(9)\excepciones(9)\obj\Debug\excepciones(9).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\excepciones(9)\excepciones(9)\obj\Debug\excepciones(9).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\excepciones(9)\excepciones(9)\obj\Debug\excepciones(9).exe
+C:\Users\Lenovo\source\repos\excepciones(9)\excepciones(9)\obj\Debug\excepciones(9).pdb

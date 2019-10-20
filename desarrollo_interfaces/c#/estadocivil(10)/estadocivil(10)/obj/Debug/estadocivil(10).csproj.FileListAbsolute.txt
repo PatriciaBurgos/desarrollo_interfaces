@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\estadocivil(10)\estadocivil(10)\bin\Debug\estadocivil(10).exe.config
+C:\Users\Lenovo\source\repos\estadocivil(10)\estadocivil(10)\bin\Debug\estadocivil(10).exe
+C:\Users\Lenovo\source\repos\estadocivil(10)\estadocivil(10)\bin\Debug\estadocivil(10).pdb
+C:\Users\Lenovo\source\repos\estadocivil(10)\estadocivil(10)\obj\Debug\estadocivil(10).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\estadocivil(10)\estadocivil(10)\obj\Debug\estadocivil(10).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\estadocivil(10)\estadocivil(10)\obj\Debug\estadocivil(10).exe
+C:\Users\Lenovo\source\repos\estadocivil(10)\estadocivil(10)\obj\Debug\estadocivil(10).pdb

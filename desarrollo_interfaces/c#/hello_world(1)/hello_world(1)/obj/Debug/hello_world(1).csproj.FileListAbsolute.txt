@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\hello_world(1)\hello_world(1)\bin\Debug\hello_world(1).exe.config
+C:\Users\Lenovo\source\repos\hello_world(1)\hello_world(1)\bin\Debug\hello_world(1).exe
+C:\Users\Lenovo\source\repos\hello_world(1)\hello_world(1)\bin\Debug\hello_world(1).pdb
+C:\Users\Lenovo\source\repos\hello_world(1)\hello_world(1)\obj\Debug\hello_world(1).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\hello_world(1)\hello_world(1)\obj\Debug\hello_world(1).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\hello_world(1)\hello_world(1)\obj\Debug\hello_world(1).exe
+C:\Users\Lenovo\source\repos\hello_world(1)\hello_world(1)\obj\Debug\hello_world(1).pdb

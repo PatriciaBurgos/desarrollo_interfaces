@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\mes(8)\mes(8)\bin\Debug\mes(8).exe.config
+C:\Users\Lenovo\source\repos\mes(8)\mes(8)\bin\Debug\mes(8).exe
+C:\Users\Lenovo\source\repos\mes(8)\mes(8)\bin\Debug\mes(8).pdb
+C:\Users\Lenovo\source\repos\mes(8)\mes(8)\obj\Debug\mes(8).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\mes(8)\mes(8)\obj\Debug\mes(8).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\mes(8)\mes(8)\obj\Debug\mes(8).exe
+C:\Users\Lenovo\source\repos\mes(8)\mes(8)\obj\Debug\mes(8).pdb

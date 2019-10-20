@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\max(3)\max(3)\obj\Debug\max(3).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\max(3)\max(3)\bin\Debug\max(3).exe.config
+C:\Users\Lenovo\source\repos\max(3)\max(3)\bin\Debug\max(3).exe
+C:\Users\Lenovo\source\repos\max(3)\max(3)\bin\Debug\max(3).pdb
+C:\Users\Lenovo\source\repos\max(3)\max(3)\obj\Debug\max(3).exe
+C:\Users\Lenovo\source\repos\max(3)\max(3)\obj\Debug\max(3).pdb

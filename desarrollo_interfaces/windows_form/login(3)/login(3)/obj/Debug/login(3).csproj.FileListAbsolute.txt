@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\login(3)\login(3)\bin\Debug\login(3).exe.config
+C:\Users\Lenovo\source\repos\login(3)\login(3)\bin\Debug\login(3).exe
+C:\Users\Lenovo\source\repos\login(3)\login(3)\bin\Debug\login(3).pdb
+C:\Users\Lenovo\source\repos\login(3)\login(3)\obj\Debug\login_3_.Form1.resources
+C:\Users\Lenovo\source\repos\login(3)\login(3)\obj\Debug\login_3_.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\login(3)\login(3)\obj\Debug\login(3).csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\login(3)\login(3)\obj\Debug\login(3).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\login(3)\login(3)\obj\Debug\login(3).exe
+C:\Users\Lenovo\source\repos\login(3)\login(3)\obj\Debug\login(3).pdb
