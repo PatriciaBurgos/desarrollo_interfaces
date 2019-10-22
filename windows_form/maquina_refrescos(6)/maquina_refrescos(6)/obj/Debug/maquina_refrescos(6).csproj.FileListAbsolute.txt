@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\bin\Debug\maquina_refrescos(6).exe.config
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\bin\Debug\maquina_refrescos(6).exe
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\bin\Debug\maquina_refrescos(6).pdb
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\obj\Debug\maquina_refrescos(6).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\obj\Debug\maquina_refrescos_6_.Form1.resources
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\obj\Debug\maquina_refrescos_6_.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\obj\Debug\maquina_refrescos(6).csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\obj\Debug\maquina_refrescos(6).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\obj\Debug\maquina_refrescos(6).exe
+C:\Users\Lenovo\source\repos\maquina_refrescos(6)\maquina_refrescos(6)\obj\Debug\maquina_refrescos(6).pdb
