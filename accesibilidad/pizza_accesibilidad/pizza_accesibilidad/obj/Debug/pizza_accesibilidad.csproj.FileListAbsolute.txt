@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\bin\Debug\pizza_accesibilidad.exe.config
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\bin\Debug\pizza_accesibilidad.exe
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\bin\Debug\pizza_accesibilidad.pdb
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\obj\Debug\pizza_accesibilidad.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\obj\Debug\pizza_accesibilidad.Form1.resources
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\obj\Debug\pizza_accesibilidad.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\obj\Debug\pizza_accesibilidad.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\obj\Debug\pizza_accesibilidad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\obj\Debug\pizza_accesibilidad.exe
+C:\Users\Lenovo\source\repos\pizza_accesibilidad\pizza_accesibilidad\obj\Debug\pizza_accesibilidad.pdb
