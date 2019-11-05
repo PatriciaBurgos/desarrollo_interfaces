@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\bin\Debug\diseño_mejorado.exe.config
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\bin\Debug\diseño_mejorado.exe
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\bin\Debug\diseño_mejorado.pdb
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.Form1.resources
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.exe
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.pdb
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.PrimerControlCustomizado.resources
+C:\Users\Lenovo\source\repos\diseño_mejorado\diseño_mejorado\obj\Debug\diseño_mejorado.SegundoControlCustomizado.resources
