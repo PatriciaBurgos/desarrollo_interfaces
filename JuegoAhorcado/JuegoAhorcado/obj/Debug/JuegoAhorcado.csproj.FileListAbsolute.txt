@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\bin\Debug\JuegoAhorcado.exe.config
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\bin\Debug\JuegoAhorcado.exe
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\bin\Debug\JuegoAhorcado.pdb
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.FirstScreen.resources
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.Game.resources
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.exe
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.pdb
+C:\Users\Lenovo\source\repos\JuegoAhorcado\JuegoAhorcado\obj\Debug\JuegoAhorcado.csprojAssemblyReference.cache
