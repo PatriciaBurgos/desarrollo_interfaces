@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\obj\Debug\Conexion__MySQL.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\obj\Debug\Conexion__MySQL.Form1.resources
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\obj\Debug\Conexion__MySQL.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\obj\Debug\Conexion__MySQL.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\obj\Debug\Conexion__MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\bin\Debug\Conexion__MySQL.exe.config
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\bin\Debug\Conexion__MySQL.exe
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\bin\Debug\Conexion__MySQL.pdb
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\bin\Debug\Renci.SshNet.dll
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\obj\Debug\Conexion__MySQL.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\obj\Debug\Conexion__MySQL.exe
+C:\Users\Lenovo\source\repos\Conexion__MySQL\Conexion__MySQL\obj\Debug\Conexion__MySQL.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\bin\Debug\Tlfn.mdb
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\bin\Debug\Acceso a datos.exe.config
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\bin\Debug\Acceso a datos.exe
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\bin\Debug\Acceso a datos.pdb
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso_a_datos.Form1.resources
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso_a_datos.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.exe
+C:\Users\Lenovo\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.pdb
