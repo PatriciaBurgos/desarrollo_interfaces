@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\bin\Debug\ComponentePersonalizado.exe.config
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\bin\Debug\ComponentePersonalizado.exe
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\bin\Debug\ComponentePersonalizado.pdb
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\obj\Debug\ComponentePersonalizado.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\obj\Debug\ComponentePersonalizado.Form1.resources
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\obj\Debug\ComponentePersonalizado.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\obj\Debug\ComponentePersonalizado.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\obj\Debug\ComponentePersonalizado.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\obj\Debug\ComponentePersonalizado.exe
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\obj\Debug\ComponentePersonalizado.pdb
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\bin\Debug\ComponenteButton.dll
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\bin\Debug\ComponenteButton.pdb
+C:\Users\Lenovo\source\repos\ComponentePersonalizado\ComponentePersonalizado\obj\Debug\ComponentePersonalizado.csproj.CopyComplete
