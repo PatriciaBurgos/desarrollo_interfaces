@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.exe.config
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.exe
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.pdb
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.Form1.resources
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.exe
+C:\Users\Lenovo\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.pdb
