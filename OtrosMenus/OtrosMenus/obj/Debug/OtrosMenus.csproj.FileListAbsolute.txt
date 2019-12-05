@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\bin\Debug\OtrosMenus.exe.config
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\bin\Debug\OtrosMenus.exe
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\bin\Debug\OtrosMenus.pdb
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\obj\Debug\OtrosMenus.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\obj\Debug\OtrosMenus.Form1.resources
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\obj\Debug\OtrosMenus.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\obj\Debug\OtrosMenus.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\obj\Debug\OtrosMenus.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\obj\Debug\OtrosMenus.exe
+C:\Users\Lenovo\source\repos\OtrosMenus\OtrosMenus\obj\Debug\OtrosMenus.pdb
