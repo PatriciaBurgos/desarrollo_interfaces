@@ -1,0 +1,11 @@
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\bin\Debug\DocumentacionAutomatica.exe.config
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\bin\Debug\DocumentacionAutomatica.exe
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\bin\Debug\DocumentacionAutomatica.pdb
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\obj\Debug\DocumentacionAutomatica.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\obj\Debug\DocumentacionAutomatica.Form1.resources
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\obj\Debug\DocumentacionAutomatica.Properties.Resources.resources
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\obj\Debug\DocumentacionAutomatica.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\obj\Debug\DocumentacionAutomatica.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\obj\Debug\DocumentacionAutomatica.exe
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\obj\Debug\DocumentacionAutomatica.pdb
+C:\Users\patri\source\repos\DocumentacionAutomatica\DocumentacionAutomatica\bin\Debug\DocumentacionAutomatica.xml
