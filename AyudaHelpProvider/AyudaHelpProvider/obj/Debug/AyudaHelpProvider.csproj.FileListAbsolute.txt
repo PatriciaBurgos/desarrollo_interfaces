@@ -1,0 +1,10 @@
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\bin\Debug\AyudaHelpProvider.exe.config
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\bin\Debug\AyudaHelpProvider.exe
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\bin\Debug\AyudaHelpProvider.pdb
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\obj\Debug\AyudaHelpProvider.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\obj\Debug\AyudaHelpProvider.Form1.resources
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\obj\Debug\AyudaHelpProvider.Properties.Resources.resources
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\obj\Debug\AyudaHelpProvider.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\obj\Debug\AyudaHelpProvider.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\obj\Debug\AyudaHelpProvider.exe
+C:\Users\patri\source\repos\AyudaHelpProvider\AyudaHelpProvider\obj\Debug\AyudaHelpProvider.pdb
